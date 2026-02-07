@@ -1,45 +1,24 @@
-# 📚 Library Management System (Java OOP)
+# 🚀 Basic Java Projects
 
-A console-based **Library Management System** built using **Core Java** to demonstrate Object-Oriented Programming concepts.
-
-This project is part of my **Basic Java Projects** collection.
+A collection of beginner-friendly **Java projects** built to strengthen **Core Java and OOP concepts**.
 
 ---
 
-## 🚀 Features
-- Add new books
-- View all books
-- Issue books to students
-- Return books
-- Admin & Student roles
-- Menu-driven console application
+## 📂 Projects Included
 
----
+### 📚 Library Management System
+- Console-based Java OOP project
+- Features:
+  - Add, issue, and return books
+  - Admin & Student roles
+  - Menu-driven system
+- Concepts used:
+  - Encapsulation
+  - Inheritance
+  - Abstraction
+  - Polymorphism
 
-## 🧠 OOP Concepts Used
-- Encapsulation
-- Inheritance
-- Abstraction
-- Polymorphism
-- Packages
-
----
-
-## 🏗️ Project Structure
-LibraryManagementSystem
-└── src
-└── library
-├── model
-├── service
-└── main
-
-
----
-
-## ▶️ How to Run
-1. Open project in VS Code / IntelliJ
-2. Run `Main.java`
-3. Use menu options in console
+📁 Folder: `Library Management System`
 
 ---
 
@@ -51,4 +30,5 @@ LibraryManagementSystem
 ---
 
 ## 👩‍💻 Author
-**Shaona Chowdhury**
+**Shaona Chowdhury**  
+B.Tech CSE Student
